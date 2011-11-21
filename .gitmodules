@@ -1,0 +1,3 @@
+[submodule "classes/tcpdf"]
+	path = classes/tcpdf
+	url = git://tcpdf.git.sourceforge.net/gitroot/tcpdf/tcpdf
