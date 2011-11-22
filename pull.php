@@ -1,4 +1,4 @@
 <?php
 passthru('git pull');
-passthru('git submodule foreach git pull origin master');
+passthru('git submodule update --recursive');
 ?>
